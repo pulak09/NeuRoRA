@@ -1,5 +1,5 @@
 
-# NEURAL ROTATION AVERAGING 
+# NeuRoRA: NEURAL ROTATION AVERAGING 
 
 The current repository is based on pyTourch Geometric Toolbox (Python3 Notebook)
 https://pytorch-geometric.readthedocs.io/en/latest/ 
