@@ -1,10 +1,6 @@
 
 # NEURAL ROTATION AVERAGING 
 
-## ** NOT A RELEASE, PLEASE DO NOT SHARE/DISTRIBUTE **  
-This repository contains training and sampling code for the submission at CVPR 2020: 
-*** Paper ID -- 2243, Title -- NeuRoRA: Neural Robust Rotation Averaging ***
-
 The current repository is based on pyTourch Geometric Toolbox (Python3 Notebook)
 https://pytorch-geometric.readthedocs.io/en/latest/ 
 
