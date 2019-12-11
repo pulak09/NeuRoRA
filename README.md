@@ -26,7 +26,7 @@ To generate synthetic data for NeuRoRA, run the following scripts in order
 * `Example_generate_data_pytourch.m`  
 ** This will generate the view-graphs and can directly fed to CleanNet for Training and Evaluatuion 
 * `Outlier_detect_initialization.m`   
-** It requires output of CleanNet to generate data for FineNet. 
+** It requires output of CleanNet to generate data for FineNet.   
 ** It does so by generating an initial solution of absolute pose from the cleaned graph.  
 
 ## Training
@@ -35,9 +35,9 @@ To generate synthetic data for NeuRoRA, run the following scripts in order
 
 To train the CleanNet model, call:
 * Run `jupyter notebook` on terminal 
-* Open `CleanNet.ipynb` and run all 
+* Open `CleanNet.ipynb` and run all   
 ** the CleanNet model
-* Open `FineNet.ipynb` and run all 
+* Open `FineNet.ipynb` and run all   
 ** the FineNet model 
 
 ## Testing
