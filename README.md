@@ -4,6 +4,11 @@
 The current repository is based on pyTourch Geometric Toolbox (Python3 Notebook)
 https://pytorch-geometric.readthedocs.io/en/latest/ 
 
+For any query email to pulak.isi@gmail.com
+
+If you find the code to be usefull, please cite the following paper
+https://arxiv.org/pdf/1912.04485.pdf
+
 ## Requirements
 The current 
 
