@@ -25,6 +25,7 @@ http://www.ee.iisc.ac.in/labs/cvl/research/rotaveraging/
 To generate synthetic data for NeuRoRA, run the following scripts in order 
 * `Example_generate_data_pytourch.m`  
 ** This will generate the view-graphs and can directly fed to CleanNet for Training and Evaluatuion 
+** Note that you need to execute the code twice to generate separate training and testing datasets
 * `Outlier_detect_initialization.m`   
 ** It requires output of CleanNet to generate data for FineNet.   
 ** It does so by generating an initial solution of absolute pose from the cleaned graph.  
