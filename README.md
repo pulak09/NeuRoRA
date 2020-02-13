@@ -59,3 +59,7 @@ The analogous files `CleanNet.ipynb` and `FineNet.ipynb` can be incorporated
 * `test_synthetic.m`  
 ** This reports the prediction accuracy 
 
+For any query email to pulak.isi@gmail.com
+
+If you find the code to be useful, please cite the following paper
+https://arxiv.org/pdf/1912.04485.pdf
