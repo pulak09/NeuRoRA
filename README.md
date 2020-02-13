@@ -38,6 +38,10 @@ To train the CleanNet model, call:
 * Run `jupyter notebook` on terminal 
 * Open `CleanNet.ipynb` and run all   
 ** the CleanNet model
+
+### FineNet 
+
+To train the FineNet model, call:
 * Open `FineNet.ipynb` and run all   
 ** the FineNet model 
 
