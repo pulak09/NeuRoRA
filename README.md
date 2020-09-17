@@ -6,7 +6,10 @@ https://pytorch-geometric.readthedocs.io/en/latest/
 
 For any query email to pulak.isi@gmail.com
 
-If you find the code to be useful, please cite the following paper
+If you find the code to be useful, please cite the following paper 
+
+NeuRoRA: Neural Robust Rotation Averaging, P. Purkait, T.J. Chin and I. Reid 
+European Conference on Computer Vision 2020 
 https://arxiv.org/pdf/1912.04485.pdf
 
 ![GitHub Logo](logo.png)
@@ -61,5 +64,4 @@ The analogous files `CleanNet.ipynb` and `FineNet.ipynb` can be incorporated
 
 For any query email to pulak.isi@gmail.com
 
-If you find the code to be useful, please cite the following paper
-https://arxiv.org/pdf/1912.04485.pdf
+
